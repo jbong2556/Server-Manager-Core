@@ -1,0 +1,15 @@
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\bin\Debug\ServerManager_Core_RU.exe.config
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\bin\Debug\ServerManager_Core_RU.exe
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\bin\Debug\ServerManager_Core_RU.pdb
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\bin\Debug\ServerManager_Core_RU.xml
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.Changelog.resources
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.Loading.resources
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.Mainframe.resources
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.Resources.resources
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.Reports.resources
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.ServerSetup.resources
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.Updater.resources
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.vbproj.GenerateResource.Cache
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.exe
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.xml
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core_RU\obj\Debug\ServerManager_Core_RU.pdb

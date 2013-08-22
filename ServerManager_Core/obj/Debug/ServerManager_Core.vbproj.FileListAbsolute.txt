@@ -13,3 +13,7 @@ c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerM
 c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.Changelog.resources
 c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.Mainframe.resources
 c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.Reports.resources
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core\bin\Debug\ServerManager_Core.exe.config
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core\obj\Debug\ServerManager_Core.exe
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core\obj\Debug\ServerManager_Core.xml
+C:\Users\Alex Konusa\Documents\GitHub\Server-Manager-Core\ServerManager_Core\obj\Debug\ServerManager_Core.pdb

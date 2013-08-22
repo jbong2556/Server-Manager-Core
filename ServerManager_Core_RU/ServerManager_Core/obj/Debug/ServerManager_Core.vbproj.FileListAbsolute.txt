@@ -1,0 +1,13 @@
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\bin\Debug\ServerManager_Core.exe.config
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\bin\Debug\ServerManager_Core.exe
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\bin\Debug\ServerManager_Core.pdb
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\bin\Debug\ServerManager_Core.xml
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.Loading.resources
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.Resources.resources
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.vbproj.GenerateResource.Cache
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.exe
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.xml
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.pdb
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.Updater.resources
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.ServerSetup.resources
+c:\users\wigleg\documents\visual studio 2013\Projects\ServerManager_Core\ServerManager_Core\obj\Debug\ServerManager_Core.Changelog.resources
