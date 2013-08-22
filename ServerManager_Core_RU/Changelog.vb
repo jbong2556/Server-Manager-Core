@@ -5,7 +5,7 @@
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Navigator.Navigate("http://servermanager.miixit.org/hits/hit_index.php?k=" + System.Security.Principal.WindowsIdentity.GetCurrent().Name.ToString() + " has updated to version " + Application.ProductVersion)
+        Navigator.Navigate("http://servermanager.miixit.org/hits/hit_index.php?k=" + System.Security.Principal.WindowsIdentity.GetCurrent().Name.ToString() + " has updated to version " + Application.ProductVersion + "[RUSSIAN]")
         Me.Close()
     End Sub
 

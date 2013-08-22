@@ -31,7 +31,7 @@ Public Class Updater
     End Sub
 
     Public Function WebsiteFunction() As String
-        Dim req As HttpWebRequest = WebRequest.Create("http://servermanager.miixit.org/")
+        Dim req As HttpWebRequest = WebRequest.Create("http://servermanager.miixit.org/index_ru.html")
         Dim res As HttpWebResponse = req.GetResponse()
         Dim Stream As Stream = res.GetResponseStream()
         Dim sr As StreamReader = New StreamReader(Stream)
@@ -65,7 +65,7 @@ Public Class Updater
 
         Progressbar.Value = 50
         WiglegUpdater_Console.Text = WiglegUpdater_Console.Text + "[Обновление] Локация выбрана" + FolderBrowser.SelectedPath + Environment.NewLine
-        My.Computer.Network.DownloadFile("http://servermanager.miixit.org/downloads/" + WebsiteFunction() + ".zip", FolderBrowser.SelectedPath.ToString + "\" + WebsiteFunction() + ".zip")
+        My.Computer.Network.DownloadFile("http://servermanager.miixit.org/downloads/" + WebsiteFunction() + "_RU" + ".zip", FolderBrowser.SelectedPath.ToString + "\" + WebsiteFunction() + "_RU" + ".zip")
         MsgBox("Файл был скачан! Пожалуйста распакуйте .Zip и запустите новую программу", MsgBoxStyle.Information, "Файл был скачан")
 
         Progressbar.Value = 100
